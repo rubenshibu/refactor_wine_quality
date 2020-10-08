@@ -2,7 +2,7 @@
 
 ## Classification models to predict whether a particular red wine is “good quality” or not.
 ## The quality of a wine is determined by 11 input variables:
-<p>1.Fixed acidity
+<p>1.Fixed acidity</p>
 2.Volatile acidity
 3.Citric acid
 4.Residual sugar
@@ -12,4 +12,4 @@
 8.Density
 9.pH
 10.Sulfates
-11.Alcohol</p>
+11.Alcohol
