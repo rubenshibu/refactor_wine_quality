@@ -4,7 +4,7 @@
 ## The quality of a wine is determined by 11 input variables:
 <p>1. Fixed acidity</p>
 <p>2. Volatile acidity</p>
-<ol>3. Citric acid
+<li>3. Citric acid
 4. Residual sugar
 5. Chlorides
 6. Free sulfur dioxide
@@ -12,4 +12,4 @@
 8. Density
 9. pH
 10. Sulfates
-11. Alcohol</ol>
+11. Alcohol</li>
